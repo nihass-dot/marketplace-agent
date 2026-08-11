@@ -1,4 +1,4 @@
-https://chat.z.ai/s/5df333f9-3ccb-4a9d-afec-de22a5341f83
+https://chat.z.ai/s/5df333f9-3ccb-4a9d-afec-de22a5341f83 this is when my #7 and # 8 evalution showed error s in multi tool genration error and answeing customer .
 claude prompt can you plan this out then system design and architecture and start implementing it with correct fuctionality as mention and give me copy paste code for it what to according to 1. What we're actually building
 
 The final system will look like this:
@@ -291,3 +291,4 @@ groq # edited
 python-dotenv
 pydantic
 pytest
+
