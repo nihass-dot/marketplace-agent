@@ -10,7 +10,7 @@ How to export a Claude.ai conversation:
 1. Open this conversation in the Claude app / claude.ai.
 2. Use the browser "Print" -> "Save as PDF" on the conversation page, OR
    copy the full conversation text into a `.md` file.
-3. Save it here as `ai_chat_logs/claude_conversation.pdf` (or `.md`).
+3. Save it here as `ai_chat_logs/conversation.pdf` (or `.md`).
 
 If you also used another tool (e.g. asked ChatGPT a clarifying question, used
 Copilot autocomplete in your editor), export/screenshot those too and drop
